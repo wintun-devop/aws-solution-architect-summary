@@ -10,7 +10,7 @@ https://docs.aws.amazon.com/vpc/
      - Private Subnet
      - Route Table
         - Main Route Table
-        - 
+        - Non Main Route Table
   - Security 
      - SG
      - Network ACL
