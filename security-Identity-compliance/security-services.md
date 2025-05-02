@@ -7,3 +7,17 @@
 - vulnerability management service that scans your AWS workloads, including EC2 instances, ECR container images, and Lambda functions, to identify security vulnerabilities and unintended network exposure. It provides a security score based on
 findings to help you assess your security posture.
 - Inspector is designed to proactively scan for vulnerabilities.
+
+### GardDuty
+```
+https://aws.amazon.com/blogs/security/tag/amazon-guardduty/
+```
+### GardDuty Medium Post
+```
+https://medium.com/@alaa00nasser/get-notifications-of-amazon-guardduty-findings-6a9d2a34ca3b
+```
+
+### GardDuty vs Inspector
+```
+https://cloudkatha.com/amazon-guardduty-vs-inspector-which-one-should-you-use/
+```
