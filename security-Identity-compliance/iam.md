@@ -19,8 +19,13 @@ https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/identit
 
 ### Monitoring and Logging
 - IAM Access Analyzer
-  - External Access Analyzer
-  - 
+  - External Access Analysis
+    - Identifies resources in your AWS account or organization that are shared with external entities.
+    - Generates findings when a resource-based policy grants access to a principal outside your zone of trust.
+    - helps us to detect unintended access and potential security risks.
+  - Unused Access Analysis
+    - Focuses on identifying IAM roles, user credentials, and permissions that have not been used within a specified time frame.
+    - Helps us clean up unnecessary access, reducing security risks and improving compliance.
 
 ### IAM Cross Account Access 
 ```

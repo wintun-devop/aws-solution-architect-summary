@@ -20,3 +20,6 @@ https://docs.aws.amazon.com/vpc/
         - Monitoring
         - Logging
      - VPC Flow Logs
+
+  - Gatewway
+    - 
