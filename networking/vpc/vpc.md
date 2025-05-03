@@ -35,3 +35,14 @@ https://docs.aws.amazon.com/vpc/
     - Transit Gateway  -> Hub and spoke model for  pvc peering and vpn connection
     - API Gateway -> endpoint to create api services
     - AWS Storage Gateway -> Syncing,caching or extend local storage to cloud storage
+  - VPC Endpoints
+    - Gateway Endpoints
+    - Interface Endpoints
+    - Gateway Loadbalancer Endpoints
+  - Private Links
+  
+
+### AWS Private Links
+```
+https://docs.aws.amazon.com/vpc/latest/privatelink/concepts.html
+```

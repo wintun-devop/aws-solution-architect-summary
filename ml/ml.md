@@ -18,3 +18,10 @@ https://docs.aws.amazon.com/connect/latest/adminguide/connect-feature-overview.h
 ```
 https://docs.aws.amazon.com/lex/
 ```
+
+### Amazon QuickSight
+ - Business intelligence (BI) tool that allows users to create interactive dashboards and visualizations. It helps businesses analyze data and 
+   gain insights using machine learning-powered analytics.
+```
+
+```
