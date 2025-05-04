@@ -20,8 +20,8 @@ https://docs.aws.amazon.com/lex/
 ```
 
 ### Amazon QuickSight
- - Business intelligence (BI) tool that allows users to create interactive dashboards and visualizations. It helps businesses analyze data and 
-   gain insights using machine learning-powered analytics.
+ - Business intelligence (BI) tool that allows users to create interactive dashboards and visualizations. It helps businesses    
+   analyze data and gain insights using machine learning-powered analytics.
 ```
-
+https://docs.aws.amazon.com/quicksight/
 ```
