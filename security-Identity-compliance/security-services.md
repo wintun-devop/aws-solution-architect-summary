@@ -1,6 +1,5 @@
 ### GuardDuty
-- Intelligent threat detection service that continuously monitors your AWS environment for unusual activities,
-  such as compromised credentials or unauthorized access. It analyzes logs from sources like CloudTrail,
+- Intelligent threat detection service that continuously monitors your AWS environment for unusual activities,such as compromised credentials or unauthorized access. It analyzes logs from sources like CloudTrail,
   VPC Flow Logs, and DNS Logs to detect potential threats.
 - focused on detecting threats in real time.
 ### Inspector
@@ -20,4 +19,10 @@ https://medium.com/@alaa00nasser/get-notifications-of-amazon-guardduty-findings-
 ### GardDuty vs Inspector
 ```
 https://cloudkatha.com/amazon-guardduty-vs-inspector-which-one-should-you-use/
+```
+
+
+### AWS Shield
+```
+https://docs.aws.amazon.com/shield/
 ```
