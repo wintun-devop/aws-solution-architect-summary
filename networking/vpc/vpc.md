@@ -46,3 +46,11 @@ https://docs.aws.amazon.com/vpc/
 ```
 https://docs.aws.amazon.com/vpc/latest/privatelink/concepts.html
 ```
+
+### VPC Reachability Analyzer vs VPC Network Access Analyzer
+- VPC Reachability Analyzer is a configuration analysis tool that allows you to test connectivity between a source and destination 
+   resource in your VPCs. If the destination is reachable, it provides hop-by-hop details of the network path. If it's not reachable, it identifies the blocking component, such as security groups, network ACLs, or route tables.
+- VPC Network Access Analyzer helps you identify unintended network access to your AWS resources.You can define your network access 
+   requirements and use the tool to detect potential paths that do not meet your specified rules
+- Key difference is that Reachability Analyzer focuses on troubleshooting specific connectivity issues, while Network Access Analyzer is more 
+  about governing and validating network access across your environment.
