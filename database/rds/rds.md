@@ -16,3 +16,12 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html
 ```
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Monitor_Logs_Events.html
 ```
+
+### Multi-Master Replication
+- RDS does not natively support multi-master configurations for most database engines.
+- However, Amazon Aurora, a managed relational database service compatible with MySQL and PostgreSQL,
+  does offer multi-master clusters allowing multiple read/write instances across different Availability Zone.
+- For Amazon RDS Custom for Oracle, you can achieve active-active replication using Oracle GoldenGate, which
+  enables bi directional replication.
+- Additionally, Multi-AZ DB clusters provide high availability with multiple readable replicas, but
+  they are not true multi-master setups.
