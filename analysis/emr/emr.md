@@ -12,3 +12,7 @@ https://www.techtarget.com/searchaws/definition/Amazon-Elastic-MapReduce-Amazon-
 ```
 https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-encryption-tdehdfs.html
 ```
+### EMR on EKS
+```
+https://docs.aws.amazon.com/emr/latest/EMR-on-EKS-DevelopmentGuide/emr-eks-overview.html
+```
