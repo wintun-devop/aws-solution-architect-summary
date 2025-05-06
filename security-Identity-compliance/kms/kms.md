@@ -16,6 +16,10 @@ https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
   - Manage Key Policies: Set granular permissions for key usage using AWS Identity and Access Management (IAM).
   - Audit and Monitor: AWS CloudTrail logs all key-related actions for security and compliance tracking.
  
+### KMS Reference
+```
+https://www.genesesolution.com/aws-key-management-service-kms-secure-encryption-compliance/
+```
 ### KMS vs Secret Manager
 ```
 https://www.cbtnuggets.com/blog/technology/networking/aws-kms-vs-secrets-manager
