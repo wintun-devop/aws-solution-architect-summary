@@ -68,3 +68,19 @@ https://docs.aws.amazon.com/rekognition/
   - Face Analysis – Estimating attributes like age range, emotions, and gender.
   - Face Comparison – Determining similarity between faces in different images.
   - Custom Label Detection – Training models to detect specialized objects in images.
+
+### Amazon Forecast(Fully Managed Deep Learning Service for Time-series Forecasting)
+```
+https://docs.aws.amazon.com/managedservices/latest/userguide/forecast.html
+```
+```
+https://docs.aws.amazon.com/forecast/
+```
+- Amazon Forecast is a machine learning service from AWS that helps businesses make accurate predictions based on historical data.
+  It’s commonly used for:
+  - Demand Forecasting – Predicting future product demand to optimize inventory.
+  - Financial Planning – Forecasting revenue, expenses, or other business metrics.
+  - Workforce Management – Predicting staffing needs based on trends.
+  - Supply Chain Optimization – Improving logistics and inventory decisions.
+  - Energy Consumption Prediction – Estimating future power usage for efficient resource allocation.
+  - Custom Forecasting Models – Creating specialized predictions tailored to unique datasets.
