@@ -84,3 +84,33 @@ https://docs.aws.amazon.com/forecast/
   - Supply Chain Optimization – Improving logistics and inventory decisions.
   - Energy Consumption Prediction – Estimating future power usage for efficient resource allocation.
   - Custom Forecasting Models – Creating specialized predictions tailored to unique datasets.
+ 
+### Amazon Fraud Detector(Detect online fraud faster with machine learning)
+```
+https://docs.aws.amazon.com/frauddetector/latest/ug/what-is-frauddetector.html
+```
+- Amazon Fraud Detector is an AI-powered fraud detection service from AWS that helps businesses identify and prevent fraudulent activities in
+  real time. It’s useful for:
+  - Online Payment Fraud – Detecting fraudulent transactions before they are processed.
+  - Account Takeover Prevention – Identifying suspicious login attempts or unauthorized access.
+  - New Account Fraud – Assessing risk when users create new accounts to prevent fake registrations.
+  - Loyalty & Rewards Fraud – Protecting against abuse of points, discounts, and promotions.
+  - Custom Fraud Models – Training machine learning models using historical fraud patterns.
+- It automates fraud detection without requiring deep expertise in machine learning, making it useful for e-commerce, banking, and digital
+  services.
+
+### Amazon Kendra(AI-powered enterprise search service)
+```
+https://aws.amazon.com/kendra/
+```
+```
+https://docs.aws.amazon.com/kendra/
+```
+- Amazon Kendra is an AI-powered enterprise search service from AWS that helps organizations retrieve relevant information quickly from large
+  amounts of unstructured data.
+ - Intelligent Search – Finding accurate answers across documents, databases, and web pages.
+ - Semantic Understanding – Recognizing context and intent in natural language queries.
+ - Enterprise Knowledge Management – Organizing and retrieving information efficiently within a company.
+ - Integration with Apps – Embedding search functionality into websites, chatbots, and applications.
+ - Document Ranking – Prioritizing the most relevant content in search results.
+- It’s valuable for industries that deal with extensive documentation, such as healthcare, legal, financial services, and customer support.
