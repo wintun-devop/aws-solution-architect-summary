@@ -18,7 +18,7 @@ https://medium.com/@mudasirhaji/step-by-step-process-of-how-to-add-and-mount-ebs
 - EBS
   - az specific,can attach any instance in the same az.
   - EBS Classes
-    - General Purpose SSD ()
+    - General Purpose SSD (https://docs.aws.amazon.com/ebs/latest/userguide/general-purpose.html)
         - Balance price and performance for a wide variety of transactional workloads.
         - Virtual desktops, medium-sized single instance databases, latency sensitive interactive applications, development and test
           environments, and boot volume.
@@ -38,9 +38,20 @@ https://medium.com/@mudasirhaji/step-by-step-process-of-how-to-add-and-mount-ebs
              - Nitro-based instances support volumes provisioned with up to 256,000 IOPS.
              - Other instancetypes can be attached to volumes provisioned with up to 64,000 IOPS, but can achieve up to 32,000 IOPS.
              - Storage capacity up to 64 TiB (65,536 GiB).
-       - Provisioned IOPS SSD (io1) volumes
-    - Throughput Optimized HDD
+       - Provisioned IOPS SSD (io1) volumes 
+          - io1 volumes are available for all Amazon EC2 instance types.
+          - Maximum ratio of provisioned IOPS to requested volume size (in GiB) is 50:1.100 GiB io1 volume can be provisioned
+             with up to 5,000 IOPS.
+          - Limitations
+            - Can range in size from 4 GiB to 16 TiB.
+            - Can provision from 100 IOPS up to 64,000 IOPS per volume.
+    - Throughput Optimized HDD(https://docs.aws.amazon.com/ebs/latest/userguide/hdd-vols.html)
+      - low-cost HDD designed for frequently accessed, throughput-intensive workloads.
+      - Throughput Optimized HDD (st1) volumes provide low-cost magnetic storage that defines performance in terms of throughput rather than IOPS.
+      -  Good fit for large, sequential workloads such as Amazon EMR, ETL, data warehouses, and log processing.
+      -  Bootable st1 volumes are not supported.
     - Cold HDD
+      - Bootable not supported.
   - Volume Types
     - https://aws.amazon.com/ebs/features/?pg=ln&sec=be#topic-3
   -Backup 
