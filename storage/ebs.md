@@ -10,6 +10,10 @@ https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html
 ```
 https://aws.amazon.com/blogs/storage/automating-amazon-ebs-snapshot-and-ami-management-using-amazon-dlm
 ```
+### EBS Medium Reference
+```
+https://medium.com/@mudasirhaji/step-by-step-process-of-how-to-add-and-mount-ebs-volume-on-ubuntu-ec2-linux-instance-a4be8870a4dd
+```
 
 - EBS
   - az specific,can attach any instance in the same az.
