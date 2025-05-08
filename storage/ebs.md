@@ -32,10 +32,12 @@ https://medium.com/@mudasirhaji/step-by-step-process-of-how-to-add-and-mount-ebs
             and SAS Analytics.
           - Block Express volumes are suited for workloads that benefit from a single volume that provides sub-millisecond latency, supports
             higher IOPS and throughput, and larger capacity than gp3 volumes.
-          - Sub-millisecond average latency1
+          - Sub-millisecond average latency
           - As of April 30, 2025, all new and previously created io2 volumes are io2 Block Express volumes.
-          - Nitro-based instances support volumes provisioned with up to 256,000 IOPS.
-          - Other instance types can be attached to volumes provisioned with up to 64,000 IOPS, but can achieve up to 32,000 IOPS.
+          - Limitations
+             - Nitro-based instances support volumes provisioned with up to 256,000 IOPS.
+             - Other instancetypes can be attached to volumes provisioned with up to 64,000 IOPS, but can achieve up to 32,000 IOPS.
+             - Storage capacity up to 64 TiB (65,536 GiB).
        - Provisioned IOPS SSD (io1) volumes
     - Throughput Optimized HDD
     - Cold HDD
