@@ -1,3 +1,8 @@
+### AWS Security White Paper
+```
+https://docs.aws.amazon.com/whitepapers/latest/introduction-aws-security/welcome.html
+```
+
 ### GuardDuty
 - Intelligent threat detection service that continuously monitors your AWS environment for unusual activities,such as compromised credentials
   or unauthorized access. It analyzes logs from sources like CloudTrail,VPC Flow Logs, and DNS Logs to detect potential threats.

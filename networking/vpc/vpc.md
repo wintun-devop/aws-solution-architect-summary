@@ -2,7 +2,10 @@
 ```
 https://docs.aws.amazon.com/vpc/
 ```
-###
+### VPC FAQ
+```
+https://aws.amazon.com/vpc/faqs/?saa=sec&sec=prep
+```
 - VPC
   - Default VPC
   - Custom VPC

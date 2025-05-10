@@ -2,6 +2,11 @@
 ```
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html
 ```
+### RDS FAQ
+```
+https://aws.amazon.com/rds/faqs/?saa=sec&sec=prep
+```
+
 ### RDS Backup
 - Snapshots
    - These are full backups of your RDS instance, including all databases, configurations, and settings. They allow you to 
