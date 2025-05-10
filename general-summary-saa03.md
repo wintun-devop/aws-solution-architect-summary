@@ -1,0 +1,21 @@
+SAA03
+ - Design Secure Architectures
+   - secure access to AWS resources
+   - secure workloads and applications
+   - appropriate data security controls
+     - Encryption and appropriate key management
+     - Data retention and classification,Data access and governance,Data recovery
+ - Designing Resilient Architectures
+  - scalable and loosely coupled architectures
+  - highly available and/or fault-tolerant architectures
+ - Design High-Performing Architectures
+   - high-performing and/or scalable storage solutions
+   - high-performing and elastic compute solutions
+   - high-performing database solutions
+   - high-performing and/or scalable network architectures
+   - high-performing data ingestion and transformation solutions
+ - Design Cost-Optimized Architectures
+   - cost-optimized storage solutions
+   - cost-optimized compute solutions
+   - cost-optimized database solutions
+   - cost-optimized network architectures
