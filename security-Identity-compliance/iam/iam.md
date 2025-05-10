@@ -31,4 +31,6 @@ IAM
    - identity fedration
    - Temporary security credential
    - Tags for iam resources
-   
+ - iam policies
+ - iam access analyzer
+ 
