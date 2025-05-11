@@ -18,3 +18,9 @@ aws-backup
 - plans
   - on-demand backup
   - backup plan
+
+aws disaster recovery scenarios
+ - Backup and Restore
+ - Pilot Light
+ - Warm Standby
+ - Multi-Site Deployment (Hot Standby)

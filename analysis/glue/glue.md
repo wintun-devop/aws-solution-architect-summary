@@ -22,3 +22,9 @@ https://www.naukri.com/code360/library/aws-glue
 ```
 https://awstip.com/data-quality-using-glue-databrew-a8d697f4f9e3
 ```
+
+
+### Data Pipeline Reference
+```
+https://towardsaws.com/building-a-serverless-real-time-data-pipeline-with-terraform-aws-and-python-07111302ec52
+```
