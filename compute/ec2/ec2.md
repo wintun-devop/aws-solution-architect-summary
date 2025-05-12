@@ -21,7 +21,7 @@ EC2
      - Convertible
      - Scheduled
    - Spot Instance
- - Types
+ - Types (https://docs.aws.amazon.com/ec2/latest/instancetypes/instance-types.html)
    - General Purpose (T, M series): Balanced CPU, memory, and network, suitable for web applications and development environments.
    - Compute Optimized (C series): High-performance processors, ideal for batch processing and gaming.
    - Memory Optimized (R, X, Z series): Designed for applications requiring high RAM, such as large databases and in-memory caching.
