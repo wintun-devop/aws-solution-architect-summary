@@ -24,5 +24,5 @@ dynamodb
       - Owned by Amazon DynamoDB
       - AWS managed key
       - Stored in your account, and owned and managed by you
-      - Deleting Poduction
-      - Resource Base Policy
+    - Deleting Poduction
+    - Resource Base Policy
