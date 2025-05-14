@@ -30,3 +30,6 @@ dynamodb
       - Stored in your account, and owned and managed by you
     - Deleting Poduction
     - Resource Base Policy
+  - DynamoDB with other AWS services (https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/OtherServices.html)
+  - DynamoDB Accelerator(DAX)
+    - https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.concepts.html 
