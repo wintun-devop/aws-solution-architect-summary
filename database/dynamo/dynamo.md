@@ -5,9 +5,13 @@ https://docs.aws.amazon.com/dynamodb
 ```
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
 ```
-### Dynamo Db Reference
+### Dynamodb Reference
 ```
 https://digitalcloud.training/amazon-dynamodb/
+```
+### Dynamodb CheatSheet
+```
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CheatSheet.html
 ```
 dynamodb
 - Table Setting
