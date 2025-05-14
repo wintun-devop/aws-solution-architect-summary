@@ -9,3 +9,20 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.ht
 ```
 https://digitalcloud.training/amazon-dynamodb/
 ```
+dynamodb
+- Table Setting
+  - Default
+  - Custom
+    - Table Class
+       - Dynamodb Stand
+       - Dynamodb Stand-IA
+    - Read/Write Capacity Setting
+       - On Deman
+       - Provisioned
+    - Warm throughput
+    - Encryption at Rest
+      - Owned by Amazon DynamoDB
+      - AWS managed key
+      - Stored in your account, and owned and managed by you
+      - Deleting Poduction
+      - Resource Base Policy
