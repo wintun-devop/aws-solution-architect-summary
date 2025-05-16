@@ -1,1 +1,29 @@
-
+AWS-Services
+- Account Level
+  - IAM Policies
+  - Billing Services
+  - Cost Explorer
+  - Budgets
+  - Services Quota
+  - Security Hub
+- Global Level
+  - IAM
+  - Route53
+  - Cloud Fronts
+  - WAF
+  - Shield
+  - Global Accelerator
+- Regional Level
+  - VPC
+  - EC2
+  - RDS
+  - DynamoDB
+  - Glue
+  - Athena
+  - SQS
+  - SMS
+  - EKS
+  - ECS
+  - Elastic Cache
+  - Redshift
+  - Lambda
