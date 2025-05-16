@@ -15,4 +15,9 @@ StorageGateway
    - Amazon S3 File Gateway
    - Tape Gateway
    - Volume Gateway
-   - 
+   -
+
+### Storage Gateway
+```
+https://www.sunnycloud.jp/column/20210504-01/
+```
