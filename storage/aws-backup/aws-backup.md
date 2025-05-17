@@ -24,3 +24,12 @@ aws disaster recovery scenarios
  - Pilot Light
  - Warm Standby
  - Multi-Site Deployment (Hot Standby)
+
+ ### Elastic Disaster Recovery
+ ```
+ https://docs.aws.amazon.com/drs/
+ ```
+ ### Fault tolerance and fault isolation
+ ```
+ Fault tolerance and fault isolation
+ ```

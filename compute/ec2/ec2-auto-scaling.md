@@ -3,6 +3,11 @@
 https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
 ```
 
+### AWS Auto Scaling
+```
+https://aws.amazon.com/autoscaling/
+```
+
 ### Scale In vs Scale Out
 - Scale-Out Process (Adding Instances)
   - Scale-out occurs when additional EC2 instances are launched to handle increased load:

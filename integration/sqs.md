@@ -16,3 +16,8 @@ sqs
   - Advance
 - Redrive allow policy - Optional
 - Dead-letter queue - Optional
+
+### SQS Reference
+```
+https://medium.com/@michael.kandelaars/sending-sqs-dlq-messages-to-s3-with-eventbridge-pipes-b03fe83010d5
+```

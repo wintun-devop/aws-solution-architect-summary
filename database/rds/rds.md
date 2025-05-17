@@ -30,3 +30,8 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Monitor_Logs_Events.
   enables bi directional replication.
 - Additionally, Multi-AZ DB clusters provide high availability with multiple readable replicas, but
   they are not true multi-master setups.
+
+### Auora
+```
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/rds-proxy.html
+```
