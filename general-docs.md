@@ -22,3 +22,8 @@ https://towardsaws.com/implementing-blue-green-deployments-with-aws-ci-cd-pipeli
 ```
 https://towardsaws.com/
 ```
+
+###
+```
+https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html
+```

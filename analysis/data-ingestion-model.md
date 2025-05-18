@@ -1,0 +1,18 @@
+- Homogeneous Data Ingestion
+ - All data sources share similar formats, structures, and technologies.
+ - Simplified integration – Since all data follows the same standards, ingestion pipelines are straightforward.
+ - Standardized formats – Data usually comes in uniform file types (CSV, JSON, databases, etc.).
+ - Optimized performance – Less need for data transformation or conversion.
+ - Faster processing – Data ingestion tools can be tightly coupled with the system, reducing latency.
+ - Services
+   - EMR
+   - Athena
+- Heterogeneous Data Ingestion
+ - Data sources vary widely in format, structure, and technology.
+ - Complex integration – Different protocols, APIs, and formats need to be reconciled.
+ - Data transformation – ETL (Extract, Transform, Load) processes play a crucial role in standardizing diverse data.
+ - Interoperability challenges – Bridging structured and unstructured data requires robust middleware or connectors.
+ - Scalability considerations – Ingesting varied data types demands adaptive architecture and flexible workflows.
+  - Redshift
+  - Glue
+  - Kinesis

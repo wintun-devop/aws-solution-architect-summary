@@ -44,7 +44,10 @@ https://aws.amazon.com/vpc/faqs/?saa=sec&sec=prep
     - Gateway Loadbalancer Endpoints
   - Private Links
   - VPN 
-    - 
+    - Virtual Private Gateway
+    - Customer Gateway
+    - VPN Connection
+  - VPC Peering (https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html)
   
 
 ### AWS Private Links

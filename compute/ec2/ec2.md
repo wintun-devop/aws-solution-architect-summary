@@ -30,6 +30,7 @@ EC2
  - ec2 storage option
    - ebs
    - instance store
+     - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/making-instance-stores-available-on-your-instances.html
    - s3 for object  store
    - efs for  linux instance
    - fsx for window instance
@@ -37,3 +38,7 @@ EC2
  - ec2-auto scaling(hz scaling)
    - Scaling Policy
    - 
+ - EC2 Burstable Performance Instances
+  - T4g,T3a,T3
+  - https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances.html
+ - Compute Optimizer
