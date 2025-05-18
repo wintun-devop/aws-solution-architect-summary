@@ -19,3 +19,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.htm
 ```
 https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html
 ```
+- Deregistration Delay
+```
+https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-target-groups.html#deregistration-delay
+```
