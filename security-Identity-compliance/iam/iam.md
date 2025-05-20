@@ -33,4 +33,8 @@ IAM
    - Tags for iam resources
  - iam policies
  - iam access analyzer
+
+ ```
+ https://thepaulo.medium.com/aws-multi-account-access-across-organizations-7c24540e8ac8
+ ```
  
