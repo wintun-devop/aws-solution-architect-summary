@@ -35,3 +35,14 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Monitor_Logs_Events.
 ```
 https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/rds-proxy.html
 ```
+
+### Reference
+```
+https://aws.amazon.com/blogs/industries/fsi-services-spotlight-featuring-amazon-relational-database-service-rds/
+```
+```
+https://medium.com/@sumbul.first/database-amazon-rds-e4fa1dcf097a
+```
+```
+https://aws.amazon.com/jp/blogs/news/aws-network-firewall-amazon-rds-for-sql-ultiaz-osaka/
+```
