@@ -27,3 +27,8 @@ https://towardsaws.com/
 ```
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html
 ```
+
+### prescriptive-guidance
+```
+https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html
+```
