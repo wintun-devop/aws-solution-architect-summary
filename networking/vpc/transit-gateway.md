@@ -10,3 +10,8 @@ https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vp
 ```
 https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/automate-the-setup-of-inter-region-peering-with-aws-transit-gateway.html
 ```
+
+### Transit Gateway Cross Account Toplogy
+```
+https://docs.aws.amazon.com/prescriptive-guidance/latest/integrate-third-party-services/architecture-3.html
+```
