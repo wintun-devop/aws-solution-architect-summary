@@ -11,3 +11,6 @@ https://docs.aws.amazon.com/whitepapers/latest/big-data-analytics-options/elasti
 ```
 https://docs.aws.amazon.com/opensearch-service/latest/developerguide/ingestion.html
 ```
+```
+https://docs.aws.amazon.com/opensearch-service/
+```
