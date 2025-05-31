@@ -121,7 +121,7 @@ https://docs.aws.amazon.com/kendra/
  - Document Ranking – Prioritizing the most relevant content in search results.
 - It’s valuable for industries that deal with extensive documentation, such as healthcare, legal, financial services, and customer support.
 
-  ### Amazon MaiceAdd commentMore actions
+  ### Amazon Maice
   ```
   https://medium.com/@dianaopanga/data-protection-amazon-s3-845b2b25e4d0
   ```
