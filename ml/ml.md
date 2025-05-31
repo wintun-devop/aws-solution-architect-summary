@@ -89,6 +89,12 @@ https://docs.aws.amazon.com/forecast/
 ```
 https://docs.aws.amazon.com/frauddetector/latest/ug/what-is-frauddetector.html
 ```
+```
+https://v1.maturitymodel.security.aws.dev/en/4.-optimized/fraud-detector/
+```
+```
+https://www.scaler.com/topics/aws/aws-detective/
+```
 - Amazon Fraud Detector is an AI-powered fraud detection service from AWS that helps businesses identify and prevent fraudulent activities in
   real time. It’s useful for:
   - Online Payment Fraud – Detecting fraudulent transactions before they are processed.
@@ -114,3 +120,30 @@ https://docs.aws.amazon.com/kendra/
  - Integration with Apps – Embedding search functionality into websites, chatbots, and applications.
  - Document Ranking – Prioritizing the most relevant content in search results.
 - It’s valuable for industries that deal with extensive documentation, such as healthcare, legal, financial services, and customer support.
+
+
+### Amazon Detective
+```
+https://aws.amazon.com/detective/
+```
+```
+https://docs.aws.amazon.com/detective/latest/userguide/what-is-detective.html
+```
+### Reference
+```
+https://v1.maturitymodel.security.aws.dev/en/4.-optimized/detective/
+```
+- Automatically collects log data from AWS resources and uses machine learning, statistical analysis, and graph theory to generate 
+  visualizations that assist in security investigations
+- a security service that helps analyze, investigate, and quickly identify the root cause of security findings or suspicious 
+  activities in AWS environments.
+- Simplifies security investigations by consolidating data from multiple AWS services into an interactive visualization.
+- Security teams to quickly analyze suspicious activities, detect anomalies, and understand the context of security findings.
+- Usage
+  - Security Investigation: Helps security teams analyze potential threats and determine the scope of security issues.
+  - Data Aggregation: Automatically collects and processes logs from AWS services like CloudTrail, VPC Flow Logs, and GuardDuty 
+    findings.
+  - Graph-Based Analysis: Uses graph models to visualize relationships between users, IP addresses, and AWS resources, making 
+    investigations more efficient.
+  - Historical Data Access: Provides up to a year of historical event data for deeper analysis.Integration with AWS Security Services: 
+    Works seamlessly with GuardDuty, AWS Security Hub, and other security tools.
