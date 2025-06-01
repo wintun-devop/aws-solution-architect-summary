@@ -14,3 +14,8 @@ https://docs.aws.amazon.com/global-accelerator/
 - Blue/Green Deployments & A/B Testing – Allows seamless traffic shifting between different versions of an application without updating client 
   configurations.
 - IoT & Retail Applications – Useful for applications where frequent client updates are impractical, such as IoT devices and retail platforms.
+
+###
+```
+https://medium.com/its-all-about-aws/aws-differences-between-global-accelerator-cloudfront-b23bf39463c3
+```
