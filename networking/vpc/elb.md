@@ -28,3 +28,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balance
 ```
 https://allcode.com/amazon-web-services/aws-load-balancer/
 ```
+### AWS WAF Link
+```
+https://aws.plainenglish.io/how-to-block-up-to-95-of-attacks-using-aws-waf-e2223efc1f55
+```
