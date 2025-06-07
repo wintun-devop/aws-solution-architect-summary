@@ -36,3 +36,8 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.htm
 ```
 https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-existing-amazon-rds-for-postgresql-db-instance.html
 ```
+
+### Decision Guide
+```
+https://aws.amazon.com/getting-started/decision-guides/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all
+```
