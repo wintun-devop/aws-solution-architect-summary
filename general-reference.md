@@ -14,3 +14,7 @@ https://community.aws/content/2wLPwRf7g5XHdb0UWby3v3BLrJD/application-performanc
 ```
 https://issackpaul95.medium.com/pass-the-aws-certified-solutions-architect-associate-certification-saa-c03-episode-15-aws-storage-ff54a284b192
 ```
+### AWS Architecture Lab
+```
+https://catalog.us-east-1.prod.workshops.aws/workshops/85cd2bb2-7f79-4e96-bdee-8078e469752a/en-US/introduction
+```
