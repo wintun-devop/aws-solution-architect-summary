@@ -25,3 +25,8 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/85cd2bb2-7f79-4e96-bdee-8
 ```
 https://medium.com/@ismailkovvuru/aws-compute-services-in-2025-a-aws-engineers-guide-to-real-world-architecture-decisions-2f23f26524b2
 ```
+
+### Sustainability with AWS for Beginners: A Glossary of Essential Terms
+```
+https://community.aws/content/2iClrhb78qQX6zkeuAMZDY375td/sustainability-for-beginners?lang=en
+```
