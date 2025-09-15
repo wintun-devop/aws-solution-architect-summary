@@ -33,3 +33,6 @@ https://medium.com/@ismailkovvuru/aws-compute-services-in-2025-a-aws-engineers-g
 ```
 https://community.aws/content/2iClrhb78qQX6zkeuAMZDY375td/sustainability-for-beginners?lang=en
 ```
+```
+https://aws.plainenglish.io/how-to-learn-aws-certificates-10x-faster-bcfaaeaa9093
+```
