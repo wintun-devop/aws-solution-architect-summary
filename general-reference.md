@@ -36,7 +36,7 @@ https://community.aws/content/2iClrhb78qQX6zkeuAMZDY375td/sustainability-for-beg
 ```
 https://aws.plainenglish.io/how-to-learn-aws-certificates-10x-faster-bcfaaeaa9093
 ```
-### 
+### API Gateway
 ```
 https://issackpaul95.medium.com/aws-theory-amazon-api-gateway-the-serverless-gateway-to-your-aws-applications-8e0272592cae
 ```
