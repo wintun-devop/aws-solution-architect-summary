@@ -41,3 +41,8 @@ https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/encrypt-an-exi
 ```
 https://aws.amazon.com/getting-started/decision-guides/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-tech-category=*all
 ```
+
+### Medium AWS SAA
+```
+https://issackpaul95.medium.com/pass-the-aws-certified-solutions-architect-associate-certification-saa-c03-episode-17-serverless-9940124e3c49
+```
